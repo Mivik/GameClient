@@ -1,0 +1,27 @@
+<resources>
+	<string name="app_name">GameClient</string>
+	<string name="msg_send">发送</string>
+	<string name="login">登录</string>
+	<string name="username">用户名</string>
+	<string name="confirm">确定</string>
+	<string name="name_cannot_be_empty">名字不能为空</string>
+	<string name="create_room">创建房间</string>
+	<string name="prepare">准备</string>
+	<string name="cancel_prepare">取消准备</string>
+	<string name="start_game">开始游戏</string>
+	<string name="exit_room">退出房间</string>
+	<string name="note">提示</string>
+	<string name="master_exit_confirm">你是该房间的房主，退出房间会导致房间被解散，是否确认？</string>
+	<string name="cancel">取消</string>
+	<string name="player_exit_confirm">当前正在游戏中，突然下线是很没人品的行为哦，是否确认？</string>
+	<string name="select_one">请选择</string>
+	<string name="observer_count">旁观者人数：%d</string>
+	<string name="player_list">玩家列表</string>
+	<string name="room_properties">房间属性</string>
+	<string name="room_properties_text">房间名：%s\n游戏标题：%s\n玩家数：%d\n旁观者人数：%d</string>
+	<string name="server_setting">服务器设置</string>
+	<string name="server_host">服务器地址</string>
+	<string name="server_port">服务器端口</string>
+	<string name="cannot_be_empty">不能为空</string>
+	<string name="input_illegal">输入不合法</string>
+</resources>
